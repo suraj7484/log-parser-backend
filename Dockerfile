@@ -29,4 +29,4 @@ COPY . /usr/src/app
 
 # Start npm
 
-CMD [ "npm", "run", "server" ]
+CMD [ "npm", "run", "dev:server" ]
